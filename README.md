@@ -1,5 +1,5 @@
 # google-homepage
 
-My first programming project on the theodinproject.
+My first programming project for the theodinproject.
 
 I am happy because I love :coffee: and programming.
