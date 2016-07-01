@@ -1,5 +1,5 @@
 # google-homepage
 
-My first programming project for the theodinproject.
+Title: google-homepage
 
-I am happy because I love :coffee: and programming.
+Link: https://github.com/dtob712/google-homepage
